@@ -1,10 +1,9 @@
-import AppRouter from "./routes/AppRouter"
+import AppRouter from "./routes/AppRouter.jsx";
 
 function App() {
   return (
     <div>
       <AppRouter />
-      <h1>Food Store</h1>
     </div>
   )
 }
